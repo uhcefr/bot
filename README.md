@@ -1,5 +1,5 @@
 # Bot
-Bot Discord
+Bot Discord  
 ![](https://img.shields.io/github/commit-activity/m/uhcefr/bot?color=red&style=for-the-badge)
 ![](https://img.shields.io/github/last-commit/uhcefr/bot?color=red&style=for-the-badge)  
 ![](https://img.shields.io/github/stars/uhcefr?color=red&style=for-the-badge)
